@@ -7,7 +7,7 @@ export const Navbar: React.FC = () => {
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
         <ul className="flex space-x-6 h-9 items-center text-[11px] font-mono uppercase tracking-wider text-text-muted">
           <li><a href="#" className="hover:text-accent-blue transition-colors border-r border-border-main pr-6 h-full flex items-center">Directory</a></li>
-          <li><a href="#" className="hover:text-accent-blue transition-colors">G'iloflar</a></li>
+          <li><a href="#" className="hover:text-accent-blue transition-colors">G'iloflarrrrr</a></li>
           <li><a href="#" className="hover:text-accent-blue transition-colors">Himoya</a></li>
           <li><a href="#" className="hover:text-accent-blue transition-colors">Quvvat</a></li>
           <li><a href="#" className="hover:text-accent-blue transition-colors">Audio</a></li>
