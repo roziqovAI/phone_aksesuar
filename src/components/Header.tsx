@@ -61,7 +61,7 @@ export const Header: React.FC<HeaderProps> = ({
               <Search className="absolute right-3 top-2.5 text-text-muted w-4 h-4" />
             </div>
             <ul className="flex flex-col py-2 text-xs font-medium text-text-muted space-y-1">
-              <li><a href="#" className="block px-3 py-2 hover:bg-bg-tertiary hover:text-text-header rounded">Barcha toifalar</a></li>
+              <li><a href="#" className="block px-3 py-2 hover:bg-bg-tertiary hover:text-text-header rounded">Barcha toifalarrr</a></li>
               <li><a href="#" className="block px-3 py-2 hover:bg-bg-tertiary hover:text-text-header rounded">G'iloflar</a></li>
               <li><a href="#" className="block px-3 py-2 hover:bg-bg-tertiary hover:text-text-header rounded">Himoya oynalari</a></li>
               <li><a href="#" className="block px-3 py-2 text-accent-orange font-bold flex items-center gap-1"><Flame size={14}/> Chegirmalar</a></li>
