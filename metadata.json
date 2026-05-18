@@ -1,0 +1,6 @@
+{
+  "name": "MobiAks - Telefon Aksesuarlari",
+  "description": "Smartfonlar uchun sifatli va hamyonbop aksesuarlar do'koni. Sun'iy intellekt yordamidagi tavsiyalar va yordamchi chat bilan.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
